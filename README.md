@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Algorithm of the party!
 
 <p align="center">
